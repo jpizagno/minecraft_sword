@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sword",
+  "name": "Tristan's Custom sword",
+  "description": "Tristan's Custom sword",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
